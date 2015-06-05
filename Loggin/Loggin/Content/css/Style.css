@@ -1,0 +1,18 @@
+﻿@import url(normalize.css)
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+    background: gainsboro;
+}
+     
+#container {
+    width: 960px;
+    height: 600px; /* silinecek */
+    position: relative;
+    margin: 10px auto;
+    border: 1px solid black;
+    background: white;
+}
+
+
+     
